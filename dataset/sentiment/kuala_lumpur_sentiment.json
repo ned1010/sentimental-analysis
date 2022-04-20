@@ -1,0 +1,182 @@
+[
+    [
+        "Hotel Mandarin Oriental, Kuala Lumpur",
+        9.1,
+        3.612,
+        "Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia",
+        "3.15592624",
+        "101.71145797",
+        "https://cf.bstatic.com/images/hotel/max1024x768/114/114166180.jpg"
+    ],
+    [
+        "Hotel Grand Hyatt Kuala Lumpur",
+        9.1,
+        2.8459999999999996,
+        "12, Jalan Pinang, 50450 Kuala Lumpur, Malaysia",
+        "3.15340879",
+        "101.71224922",
+        "https://cf.bstatic.com/images/hotel/max1024x768/243/243788400.jpg"
+    ],
+    [
+        "Hotel Traders Hotel Kuala Lumpur",
+        8.8,
+        2.96,
+        "Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia",
+        "3.15379444",
+        "101.71500921",
+        "https://cf.bstatic.com/images/hotel/max1024x768/156/156791422.jpg"
+    ],
+    [
+        "Hotel The Majestic Hotel Kuala Lumpur, Autograph Collection",
+        8.9,
+        2.54,
+        "No.5, Jalan Sultan Hishamuddin, City Centre, 50000 Kuala Lumpur, Malaysia",
+        "3.13882349",
+        "101.69220507",
+        "https://cf.bstatic.com/images/hotel/max1024x768/170/170715859.jpg"
+    ],
+    [
+        "Hotel Pullman Kuala Lumpur City Centre Hotel & Residences",
+        8.6,
+        2.5115,
+        "4 Jalan Conlay, Bukit Bintang, 50450 Kuala Lumpur, Malaysia",
+        "3.15021911",
+        "101.71456933",
+        "https://cf.bstatic.com/images/hotel/max1024x768/263/263321607.jpg"
+    ],
+    [
+        "Hotel DoubleTree By Hilton Kuala Lumpur",
+        8.3,
+        2.7205000000000004,
+        "348 Jalan Tun Razak, 50400 Kuala Lumpur, Malaysia",
+        "3.16160656",
+        "101.71977282",
+        "https://cf.bstatic.com/images/hotel/max1024x768/491/49113506.jpg"
+    ],
+    [
+        "Hotel Dorsett Kuala Lumpur",
+        7.9,
+        2.5,
+        "172 Jalan Imbi, Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+        "3.14709370",
+        "101.71572134",
+        "https://cf.bstatic.com/images/hotel/max1024x768/222/222475780.jpg"
+    ],
+    [
+        "Hotel JW Marriott Hotel, Kuala Lumpur",
+        8.9,
+        4.116999999999999,
+        "183 Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+        "3.14764540",
+        "101.71309948",
+        "https://cf.bstatic.com/images/hotel/max1024x768/111/111817694.jpg"
+    ],
+    [
+        "Hotel Hilton Kuala Lumpur",
+        8.8,
+        1.3425,
+        "3, Jalan Stesen Sentral, KL Sentral Train Station, 50470 Kuala Lumpur, Malaysia",
+        "3.13499368",
+        "101.68576241",
+        "https://cf.bstatic.com/images/hotel/max1024x768/124/12427167.jpg"
+    ],
+    [
+        "Apartments\nAscott Kuala Lumpur",
+        8.7,
+        4.019,
+        "No 9 Jalan Pinang, 50450 Kuala Lumpur, Malaysia",
+        "3.15492800",
+        "101.71062100",
+        "https://cf.bstatic.com/images/hotel/max1024x768/279/279259424.jpg"
+    ],
+    [
+        "Hotel The Ritz-Carlton, Kuala Lumpur",
+        8.7,
+        2.96,
+        "168 Jalan Imbi, Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+        "3.14680445",
+        "101.71540886",
+        "https://cf.bstatic.com/images/hotel/max1024x768/117/117343899.jpg"
+    ],
+    [
+        "Hotel Dorsett Hartamas Kuala Lumpur",
+        7.9,
+        2.439,
+        "D-G-08 Plaza Damas, No. 63 Jalan Sri Hartamas 1, Taman Sri Hartamas , 50480 Kuala Lumpur, Malaysia",
+        "3.16284400",
+        "101.65606500",
+        "https://cf.bstatic.com/images/hotel/max1024x768/155/155978313.jpg"
+    ],
+    [
+        "Hotel Shangri-La Hotel Kuala Lumpur",
+        9.0,
+        3.0244999999999997,
+        "11 Jalan Sultan Ismail, 50250 Kuala Lumpur, Malaysia",
+        "3.15415867",
+        "101.70664340",
+        "https://cf.bstatic.com/images/hotel/max1024x768/295/295683339.jpg"
+    ],
+    [
+        "Apartments\nExpressionz Professional Suites by MyKey Global",
+        7.7,
+        3.2169999999999996,
+        "Jalan 1/65a off Jalan Tun Razak, 50400 Kuala Lumpur, Malaysia",
+        "3.16960200",
+        "101.71133900",
+        "https://cf.bstatic.com/images/hotel/max1024x768/210/210200691.jpg"
+    ],
+    [
+        "Condo Hotel\nTHE FACE Suites",
+        8.6,
+        2.96,
+        "1020, Jalan Sultan Ismail, 50250 Kuala Lumpur, Malaysia",
+        "3.15843900",
+        "101.70379900",
+        "https://cf.bstatic.com/images/hotel/max1024x768/238/238697697.jpg"
+    ],
+    [
+        "Hotel Hilton Garden Inn Kuala Lumpur - South",
+        8.2,
+        2.263,
+        "No. 452 Jalan Tuanku Abdul Rahman , Chow Kit, 50100 Kuala Lumpur, Malaysia",
+        "3.16383575",
+        "101.69828387",
+        "https://cf.bstatic.com/images/hotel/max1024x768/167/167031279.jpg"
+    ],
+    [
+        "Hotel Berjaya Times Square Hotel, Kuala Lumpur",
+        7.7,
+        2.263,
+        "No.1, Jalan Imbi, Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+        "3.14241225",
+        "101.70958042",
+        "https://cf.bstatic.com/images/hotel/max1024x768/109/109225065.jpg"
+    ],
+    [
+        "Hotel Komune Living",
+        8.2,
+        2.96,
+        "No. 20 Jalan Kerinchi Kiri 3, 59200 Kuala Lumpur, Malaysia",
+        "3.11421391",
+        "101.66516083",
+        "https://cf.bstatic.com/images/hotel/max1024x768/236/236945321.jpg"
+    ],
+    [
+        "Hotel VE Hotel & Residence",
+        8.6,
+        2.96,
+        "Bangsar South City, No 8, Jalan Kerinchi , 59200 Kuala Lumpur, Malaysia",
+        "3.11038419",
+        "101.66553850",
+        "https://cf.bstatic.com/images/hotel/max1024x768/899/89985053.jpg"
+    ],
+    [
+        "Hotel InterContinental Kuala Lumpur, an IHG Hotel",
+        8.8,
+        4.3245000000000005,
+        "165, Jalan Ampang, 50450 Kuala Lumpur, Malaysia",
+        "3.15967153",
+        "101.71807846",
+        "https://cf.bstatic.com/images/hotel/max1024x768/248/248456944.jpg"
+    ]
+]
